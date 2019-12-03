@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575364095030.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4E1E574C",
+    "lastKnownWriteTime" : 1575364382,
+    "last_content_update" : 1575364382192,
+    "path" : "C:/Users/Alfonso.Noguer/OneDrive - IWG plc/Shiny test/pre-process-app/app/server.R",
+    "project_path" : "app/server.R",
+    "properties" : {
+        "cursorPosition" : "23,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
