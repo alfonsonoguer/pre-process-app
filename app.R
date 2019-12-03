@@ -1,9 +1,12 @@
 library("tidyverse")
-
+library("readxl")
+library("writexl")
+library("shiny")
 write_xlsx(x = iris, path = "app/IRIS.xlsx")
 my_data2 <- read_excel(path = "app/IRIS.xlsx")
 source("app/pre_process.R")
 my_data <- rename(my_data2)
+# comment source and uncomment ui and server and it will work fine
 source("app/ui.R")
 source("app/server.R")
 # ui <- pageWithSidebar(

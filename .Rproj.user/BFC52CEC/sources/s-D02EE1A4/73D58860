@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "73D58860",
-    "lastKnownWriteTime" : 1575365148,
-    "last_content_update" : 1575365148506,
+    "lastKnownWriteTime" : 1575365999,
+    "last_content_update" : 1575365999039,
     "path" : "C:/Users/Alfonso.Noguer/OneDrive - IWG plc/Shiny test/pre-process-app/app.R",
     "project_path" : "app.R",
     "properties" : {
-        "cursorPosition" : "0,20",
-        "scrollLine" : "0"
+        "cursorPosition" : "49,0",
+        "scrollLine" : "15"
     },
     "read_only" : false,
     "read_only_alternatives" : [
